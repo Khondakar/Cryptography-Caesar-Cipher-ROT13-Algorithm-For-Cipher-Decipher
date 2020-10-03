@@ -1,5 +1,4 @@
 ## ABOUT: Cryptography-Caesar-Cipher-ROT13-Algorithm-For-Cipher-Decipher
-Caesar Cipher Cryptography or ROT13 Algorithm for cipher &amp; decipher
 
        
 **SOURCE INFO:**
@@ -14,7 +13,7 @@ BIO: IT Professional.
 **WHAT THIS ABOUT:**
 
 
-Function: Caesar Cipher Cryptography and ROT13 Algorithm for perform cipher & decipher.
+Caesar Cipher Cryptography and ROT13 Algorithm to perform cipher & decipher.
 
 
 **HOW TO USE IT:**
