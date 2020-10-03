@@ -27,8 +27,9 @@ Function: Caesar Cipher Cryptography and ROT13 Algorithm for perform cipher & de
 
    ```./cc.sh THIS is a test```
    
-   ![alt text](https://github.com/Khondakar/Cryptography-Caesar-Cipher-ROT13-Algorithm-For-Cipher-Decipher/blob/main/Menu.PNG)
+   ![alt text](https://github.com/Khondakar/Cryptography-Caesar-Cipher-ROT13-Algorithm-For-Cipher-Decipher/blob/main/RunCmdlineArg.PNG)
    
 3. Option 2: User just run the cc.sh file without any argument.
 
    ```./cc.sh```
+   ![alt text](https://github.com/Khondakar/Cryptography-Caesar-Cipher-ROT13-Algorithm-For-Cipher-Decipher/blob/main/Menu.PNG)
