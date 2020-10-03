@@ -29,4 +29,4 @@ Function: Caesar Cipher Cryptography and ROT13 Algorithm for perform cipher & de
    
 3. Option 2: User just run the cc.sh file without any argument.
 
-   ```./cc.sh THIS is a test```
+   ```./cc.sh```
