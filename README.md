@@ -36,7 +36,7 @@ BIO: IT Professional.
 **WHAT THIS ABOUT:**
 
 
-Caesar Cipher Cryptography and ROT13 Algorithm to perform cipher & decipher.
+Linux based Caesar Cipher Cryptography and ROT13 Algorithm to perform cipher & decipher.
 
 
 **HOW TO USE IT:**
